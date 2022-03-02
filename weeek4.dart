@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  int n = 99;
+  int n = 5;
   while (n != 0) {
     print("1. ush-bes");
     print("2. century");
